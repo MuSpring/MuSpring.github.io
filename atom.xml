@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://muspring.netlify.app</id>
+    <title>MuSpring&apos;s Blog - 世界新声</title>
+    <updated>2023-05-14T11:08:31.169Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://muspring.netlify.app"/>
+    <link rel="self" href="https://muspring.netlify.app/atom.xml"/>
+    <logo>https://muspring.netlify.app/images/avatar.png</logo>
+    <icon>https://muspring.netlify.app/favicon.ico</icon>
+    <rights>All rights reserved 2023, MuSpring&apos;s Blog - 世界新声</rights>
+    <entry>
+        <title type="html"><![CDATA[长期停更通知与AFO宣言]]></title>
+        <id>https://muspring.netlify.app/post/AFO/</id>
+        <link href="https://muspring.netlify.app/post/AFO/">
+        </link>
+        <updated>2023-06-05T11:04:42.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>AFO</strong></p>
+<p>像唱了一支荒诞的歌曲，</p>
+<p>开始便已预料到的结局。</p>
+<hr>
+<p>本人已退出信息学竞赛，由于假期期间并无电脑可用，本博客将长期停更（大约于2025年7月恢复）。</p>
+<p>感谢这一路上各位的支持。</p>
+<p>不必沉浸于往事回忆里，因为未来可期。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白嫖Intel处理器贴纸接生级教程]]></title>
+        <id>https://muspring.netlify.app/post/Intel-Processor-Label-Replacement/</id>
+        <link href="https://muspring.netlify.app/post/Intel-Processor-Label-Replacement/">
+        </link>
+        <updated>2023-04-27T07:47:53.000Z</updated>
+        <content type="html"><![CDATA[<p>不说废话，直接上教程，无图，意义党退散。</p>
+<h2 id="一-前期准备">一、前期准备</h2>
+<h3 id="1准备file-attachments">1.准备File Attachments</h3>
+<p>打开这个链接，下载<a href="https://www.intel.cn/content/www/cn/zh/download/18377/intel-system-support-utility-for-windows.html">Intel System Support Utility</a></p>
+<p>下载后打开，直接点击Scan，到达Review后点击Next，再点击Save保存文本文档。</p>
+<h3 id="2准备header-editor">2.准备Header Editor</h3>
+<p>会科学上网的可以跳过。</p>
+<p><a href="http://he.firefoxcn.net/guide">打开这个链接</a>安装即可。</p>
+<p>打开Header Editor配置页面，点击导入和导出，在下载规则输入框处键入如下链接（二选一）。</p>
+<blockquote>
+<p>https://azurezeng.github.io/static/HE-GoogleRedirect.json</p>
+<p>https://www.azurezeng.com/static/HE-GoogleRedirect.json</p>
+<p>感谢Github@AzureZeng</p>
+</blockquote>
+<p>点击旁边的下载按钮，下载完成后<strong>点击保存</strong>。</p>
+<h2 id="二-开始申请">二、开始申请</h2>
+<p><a href="http://app.smartsheet.com/b/form?EQBCT=946510ad2aab4ad2a4f9fd73f6fc1c26">点击该链接</a></p>
+<h3 id="1name">1.Name</h3>
+<p><strong>不要输入全中文拼音</strong>，比如<code>Yao Ying</code>,请输入一个带有英文单词的名字，比如<code>Potato Yao</code>.</p>
+<h3 id="2street-address">2.Street Address</h3>
+<p>将你的快递地址<strong>去掉省市</strong>翻译成英文放到这里。</p>
+<p>不要学那些网上的美国式地址填法，快递是中国人送，这样只会添麻烦。</p>
+<h3 id="3city与state">3.City与State</h3>
+<p>City是市，State是省。</p>
+<p>直辖市两个填一样的。</p>
+<h3 id="4country">4.Country</h3>
+<p>你猜你要选哪？</p>
+<h3 id="5postal-zip-code">5.Postal Zip Code</h3>
+<p><a href="http://www.yb21.cn/">全国邮政编码查询系统</a></p>
+<p>查到了填在这里。</p>
+<h3 id="6contact-phone">6.Contact Phone</h3>
+<p>+86 你的电话。</p>
+<p>记得带空格。</p>
+<h3 id="7product-type-selection">7.Product Type Selection</h3>
+<p>Desktop 台式机，Laptop 笔记本。</p>
+<p>按实际情况选。</p>
+<h3 id="8request-reason">8.Request Reason</h3>
+<p>写一篇小作文，告诉他们你多喜欢Intel的产品，你为什么要领取Intel的贴纸,最后感谢一下他们就可以。</p>
+<h3 id="9file-attachments">9.File Attachments</h3>
+<p>点击browse files或者把你第一步保存的文本文档拖拽到这里。</p>
+<h3 id="10e-mail-address">10.E-mail Address</h3>
+<p>填邮箱地址。</p>
+<p>QQ有概率能收到，163完全收不到，所以建议用Outlook或者Gmail.</p>
+<h3 id="11i-agree">11.I Agree</h3>
+<p>不点的你是故意找茬是吧？</p>
+<h3 id="12send-me-a-copy-of-my-responses">12.Send me a copy of my responses</h3>
+<p>可选项，点了之后填上邮箱地址就可以收到提交回执。</p>
+<blockquote>
+<p>回执邮件内容</p>
+<p>Thank you! Your label request has been sent.</p>
+<p>A email will be sent when request has been processed for shipping.</p>
+<p>A copy is included below for your records.</p>
+</blockquote>
+<h2 id="三-后续">三、后续</h2>
+<p>不出意外的话，你发送请求后的第一个美国工作日时间（北京时间约凌晨两点）英特尔就会受理。</p>
+<blockquote>
+<p>受理邮件内容</p>
+<p>标题:OLO (发货国家) - Label Request - (姓名)<br>
+Dear (姓名)</p>
+<p>Thank you for wanting to obtain a replacement Intel® label for your system!  Also, thank you for providing your proof of ownership/invoice/shipping address – we have validated this and will expedite an Intel® Core Processor replacement label to the address you provided.</p>
+<p>下略.</p>
+</blockquote>
+<p>一般情况下，你收到这封邮件后三日内就会安排顺丰特快空运从无锡送到你家。</p>
+<p>快递单号请见你后续收到的邮件。</p>
+<p><strong>注意：部分情况下，你收到的快递单号顺丰快递官网无法查询，这时请尝试删掉前面的SF。</strong></p>
+<p>本人在小城市，三天到货。</p>
+<p>如果你申请的贴纸很稀有，比如我之前申请的2013年奔腾贴纸，就会安排Fedex从Glasgow发货。</p>
+<p>也很快，四天到货。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冀西南原路行：海棠花海暮春游记]]></title>
+        <id>https://muspring.netlify.app/post/Travels-In-Late-Spring/</id>
+        <link href="https://muspring.netlify.app/post/Travels-In-Late-Spring/">
+        </link>
+        <updated>2023-04-26T06:33:16.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>为了保护隐私，本文中不包含真实地名,部分情节系其他事件的杂糅。</strong></p>
+<p><strong>本文无图，文笔很烂。</strong></p>
+<hr>
+<p>参加完数理化生信校际联赛，马主任便提出带我们去植物园逛一逛。我们自然是同意的，前提是忘了从比赛地到植物园的距离——7千米，步行。</p>
+<p>路程出发前，我因为一些原因晚了几分钟。前面的人已经出校门了，我便摇着轮椅光速横穿双井市第二十六中学，身后被几个穿着校礼服（我们学校的校礼服跟DK差不多）的信竞同学追着，给了二十六中人一点小小的实验五中震撼。</p>
+<p>作为老双井人，我便卖弄起了自己。跟推我的这一行信竞同学说起了我们的坐标，到太平桥了，到老河沟了，到关马庄了......</p>
+<p>我本以为我们去的是双井市植物园，所以看到前面就是植物园路我便开心地说快到了，结果我们在植物园路的前面一个路口转弯了，这是哪儿？？？我也不知道了，看到了路边的牌子，才知道这里也是植物园街道，但我从来没来过。我们又七拐八拐，走到了双井市南植物园——六年前便烂尾，但因为其独特的废墟风格至今吸引着游客。</p>
+<p>植物园里是有几个人维护的，所以里面的海棠花长得很好。一阵属于暮春的微风吹过，鼻子里充盈着海棠的香气。有几株海棠划过我的脸颊，是它们看我坐着轮椅太可怜了在抚慰我吗？我暂时不去想，我只是在看栈道下的海棠、海棠、海棠......</p>
+<p>暮春时节的天气是阴晴不定的，天边飘来几点细雨，我们要走了。这回程的路倒是近了，只有三千米。一路上，我和其他信竞同学说说笑笑，迎着落日的余晖，回到了实验五中。</p>
+<p>时光并没有定格，但其仍然美好。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2025年7月/原创小说]西南路行]]></title>
+        <id>https://muspring.netlify.app/post/Southwestward/</id>
+        <link href="https://muspring.netlify.app/post/Southwestward/">
+        </link>
+        <updated>2023-04-23T12:12:04.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>本文标题改自万能青年旅店专辑《冀西南林路行》。</strong></p>
+<p><strong>本文内所有人名、地名均为虚构，如有雷同纯属巧合。</strong></p>
+<p><strong>本文为原创，文笔甚糟，多多包涵。</strong></p>
+<p><strong>本文未完结，在此之前文章内容随时做改动。</strong></p>
+<p><strong>2023年7月拟定完成，2025年5月拟定同步到本站。</strong></p>
+<h2 id="正文">正文</h2>
+<h3 id="part1-灵桃">Part1 灵桃</h3>
+<p>前往天渊的第二天。</p>
+<p>由于龙宿西部环山，从那里走显然不是个好选择，齐泽轩一行人打算南下到灵桃转向。</p>
+<p>路并不好走，即使他们走的是高速，也用了二十个小时才到达灵桃市。</p>
+<p>下了高速，还要走一段省道才能进城，灵桃大地震以后，走省道与冒险没有任何区别。</p>
+<p>连日的暴雪掩埋了省道周围一切可见之物，车颠簸了起来，这并不奇怪——积雪下可能掩埋了附近建筑物的残骸，或者遇难者的尸体。</p>
+<p>大雪过后是格外寂静的，似乎整个灵桃只有他们车辆的行驶声存在，远远地望见一个“灵桃欢迎你”的招牌，在风中摇摇欲坠，更添几分悲凉。这样的情景，任谁来了，都不会觉得这里还有生命存在。</p>
+<p>前面便是问津大街，他们会在这里右转，然后一路向西。</p>
+<p>问津大街？齐泽轩想起了坐落于此地的灵桃市第二中学，他的母校。</p>
+<p>“前面停一下吧”齐泽轩一是想看看自己的母校，二是连续二十个小时没有休息了，他们这种规模的车队在这里休息正好，于是对司机说。</p>
+<p>灵桃二中，可以说只剩下了一个牌子和半栋楼了。这也难怪，那么大的地震什么震不塌？</p>
+<p>与经过的其他地方不同，这里的大门前没有积雪，而且有一个穿着校服的女生在门前站着。</p>
+<p>她的校服很脏，上面有各种液体的痕迹。但既然是齐泽轩的校友，再加上这是他们龙宿出发以来遇到的第一位幸存者，他当然很高兴。</p>
+<p>谁知那女生突然怪叫起来，招呼来了一群男生，看样子，来者不善。</p>
+<p>女生突然大喊“快抢啊！”然后便是一群男生拿着钢管推开大门跑了出来。</p>
+<p>不好，他们遇袭了！</p>
+<p>“同学们冷静！我是龙宿市政府的，不要冲动！”齐泽轩竭尽全力安抚这些不能称之为学生的学生。</p>
+<p>“去**的龙宿，在这没人跟我们臭摆架子”为首一个男生说到，他穿的是一套老式外套。</p>
+<p>太不可理喻了，齐泽轩心想，他又说道“我也是你们的校友，马校长呢？他怎么教的你们？”</p>
+<p>“马校长？”那个男生挑衅地回答“你是说那个只有这身外套还有点用的老东西吗？他被我们吃了。”</p>
+<p>他们竟然在吃人？齐泽轩想到这里不住的干呕了。</p>
+<p>“哈哈哈哈，你就这点承受能力啊，你是不知道啊，那老头的肉是真难嚼，但是骨头是真脆，一咬骨髓就出来了，那叫一个香啊”男生看到齐泽轩的窘态，更变态地说到。</p>
+<p>“老公，再说这些没用的话不去抢东西的话，今晚我就不陪你了”女生突然矫揉造作的向男生说到，这时齐泽轩才发现，她怀孕了！</p>
+<p>人渣！这是他此刻对于这些人的唯一评价，或许他们根本不是学生，而是同样将那些学生吃掉的变态。</p>
+<p>“小宝贝这么说了，那我不得不动手了。”男生吼道“上！”</p>
+<p>齐泽轩虽然之前是个警察，队伍里的一行人也都不是孬种，但双拳难敌四手，他们马上就落了下风。</p>
+<p>“哼哼哼，你就这点本事啊，下头男”女生跑过来对被几个混混按在地上的齐泽轩啐了一口唾沫。</p>
+<p>“今晚就先吃你吧，看你这么能打，肉肯定很有嚼劲”男生依旧是那么变态的回答。</p>
+<p>齐泽轩闭上了眼睛，他的命可能要交代在这里了。</p>
+<p>“砰！”远处一声枪响传来，众人悚住了。</p>
+<p>是军队来了吗？齐泽轩心想，太好了！</p>
+<p>但见那边黑压压的一片人穿的并不是军装，而是西装，灵桃市乃至建安省最大的黑帮闹事时必穿的服装。</p>
+<p>齐泽轩又闭上了眼，这下真的是无力回天了。</p>
+<p>“嘿，老齐，闭啥眼啊”为首那个人隔着三十米喊道。</p>
+<p>齐泽轩睁开了眼，发现对面是自己的高中同学贾世佑。</p>
+<p>“李广灵！”齐泽轩队伍里有人喊道“你个越狱犯，还敢来找我们？”</p>
+<p>李广灵？这不是一年前被抓获，三个月前灵桃地震时越狱的建安黑帮老大的名字吗？</p>
+<p>“那怎么办，你来抓我吗？”李广灵回答道，有些挑逗的意味，并手作被铐住状。</p>
+<p>齐泽轩不得不相信眼前的贾世佑就是李广灵了。</p>
+<p>“你要干什么？我们是龙宿市政府的，可不会跟你们相提并论！”齐泽轩队伍里又有人喊。</p>
+<p>“啧，真分不清大小王啊，那现在被那群人压在地下的是谁啊？”贾世佑冷笑着回答。</p>
+<p>“哇，大哥牛*啊，居然有枪，能不能给小弟一把玩玩？”男生看到贾世佑就变成了一副舔狗相，伸手就要够贾世佑手上的枪。</p>
+<p>“砰！”男生的天灵盖被打破，脑浆迸流。</p>
+<p>“放屁是很爽，能憋住也是一种教养”贾世佑看都不看一眼，只是借着枪口的余热点了一支烟吸了起来，然后擦了擦枪口说到。</p>
+<p>那群混混显然被唬住了，就连训练有素的齐泽轩一行人都心生恐惧。</p>
+<p>“你在杀人！”齐泽轩喊道，“快停下！”</p>
+<p>“啥时候了你还在圣母，你等着被他们弄死？”贾世佑不耐烦的朝着齐泽轩骂道，齐泽轩无话。</p>
+<p>“大哥饶命啊！我愿以身相许！”女生看到男生的死相慌乱的求饶了起来，脱起了衣服。</p>
+<p>“砰！”又是一枪，女生的股骨被击穿，站不起来了。</p>
+<p>“以身相许是吧。”贾世佑说到“好啊。”</p>
+<p>他夺过旁边被吓呆了的混混手上的钢管，走进那个女生说：“你这个腿骨折了，我来帮你打个钢钉。”</p>
+<p>他朝着女生的枪伤位置用力捅去，每捅一次都伴随着女生越来越毛骨悚然的惨叫。</p>
+<p>女生疼的昏死过去了，贾世佑方才停下，然后将烟头烫在血肉模糊的伤口上。他说这是在“消毒”。</p>
+<p>“什么货色。”贾世佑倒是说了一句话了。</p>
+<p>他转身朝向那群混混们，混混们自觉的跑开了，他们知道面前这个人比他们还变态。</p>
+<p>“那么，齐泽轩同学”贾世佑快步走向齐泽轩说到“我已经帮你清理了学校，现在我们借一步说话”</p>
+<p>齐泽轩心生疑惑，但为了可能的保住队伍剩余人的性命，他跟着贾世佑走进了灵桃二中的大门。</p>
+<p>齐泽轩队伍里的人也跟着过来了，贾世佑只是向后一指，问“谁让他们进来的？”</p>
+<p>贾世佑的小弟们心领神会，拦住了齐泽轩之外的人。</p>
+<p>“你哪来的枪？”齐泽轩首先问到。</p>
+<p>“哦，我去高定军械库玩了一圈，那边看守都死了。哦对了，不是我弄的。”贾世佑回答，甚至还有点无辜，随后他便讲起了高定军械库里面的配置。</p>
+<p>“停停停。”齐泽轩听烦了“那你们为啥来这里？”</p>
+<p>“我们本来打算回凤栖的，但是高定东边的路走不了，就南下灵桃了，碰巧遇见了你们。”</p>
+<p>“你们为什么来？”齐泽轩还是心生防备。</p>
+<p>贾世佑显然是被他的防备弄恼了，回答到：“为了杀了你”，随后手比手枪朝着齐泽轩开了一枪。“biu~”贾世佑笑了“满意了吧？那我继续说了”</p>
+<p>“我看你们车上是天渊的车牌，便知道你们是要去天渊支援的。现在天灾当头，劫了你们是不义的，我看那群渣滓不懂道上的规矩，给他们上一课。”</p>
+<p>“前因后果我说完了，那么让我们忘记这些破事，一起在学校里走走吧。”</p>
+<p>他们走进了唯一没有塌的博雅楼，楼里一股腥臭的气味，看来他们吃了不少人肉。</p>
+<p>一楼的教室里摆了几口大锅，锅上还有一些人体组织。</p>
+<p>齐泽轩又是一阵恶心，贾世佑则习以为常，还拿齐泽轩取乐，“我还以为是甜菜汤呢，原来是人体组织啊。”</p>
+<p>“看来齐同学不喜欢这里，那我们去三楼咱们毕业的教室看看吧。”贾世佑“善解人意”的说。</p>
+<p>“楼梯间塌了，你怎么上去？”</p>
+<p>“你个警察，不会爬电梯井吗？”</p>
+<p>到了三楼那个他们毕业的教室，并没有一楼那么恶心的东西，但也够杂乱，他们只能动手清理了一下。</p>
+<p>“我亲爱的齐同学，你怎么变成龙宿的书记了？你不是在辛州当警察吗？”贾世佑说。</p>
+<p>“我被提拔到龙宿市公安厅了，因为抓你。后来天灾来了，市长就把我任命为书记，让我带着人去天渊。”一想到自己是踩着自己同学上来的，齐泽轩就不得不尴尬。</p>
+<p>“我早就知道是你，你那样子化成灰我都认得，但是为了不给你升职的路上添堵，我就没说，瞧瞧，我多伟大”贾世佑自豪的说。</p>
+<p>“好好好”齐泽轩把敷衍写在了脸上。</p>
+<p>“你到底为啥走上这条路？”齐泽轩锐利地发问。</p>
+<p>“你还记得咱们在这里说过的话吗”贾世佑避而不谈，只是说。</p>
+<p>“你被保送到了公安大学，在高考前两个月就走了，我当时问你咱们什么时候再能见面。”</p>
+<p>“你说总会有时候的，我也一定能成为自己想成为的人。”</p>
+<p>“后来啊，世界拒绝了我。”</p>
+<p>贾世佑说完这段话，气氛变得尴尬了起来。</p>
+<p>齐泽轩想说那些劝他回头的话，但是都这个时候了，他更应该担心的是未来，所以他沉默不言，气氛更尴尬了。</p>
+<p>“好吧，说点别的。”还是贾世佑先发话了“比如，回忆一下高中往事？”</p>
+<p>......</p>
+<p>他们相谈甚欢，就差勾肩搭背了。</p>
+<p>实在很难想象，一年前，一个人抓捕了另一个人。</p>
+<p>距离齐贾两人进去已经一个小时了，外面的人都很担忧，但是因为贾世佑嘱咐过他们不让任何人进去，所以他们只能干着急。</p>
+<p>突然，有个人喊到“他们出来了！”</p>
+<p>是的，他们确实出来了。所有人都屏息凝神，不知道他们谈话后的气氛。</p>
+<p>“弟兄们，都进来吧！”贾世佑向外面的人招手。</p>
+<p>“齐书记是去天渊的，咱们来做一次好人，接济一下他们！”</p>
+<p>当晚双方都卸下了防备，聊天耍宝，好不热闹，就像世界还像从前那样。</p>
+<p>第二天，齐泽轩的车队在前，贾世佑的车队在后，他们便启程了。</p>
+<p>也许是因为他们有枪，也许是因为这段路没人了，他们没再被袭击过。</p>
+<p>到了石门与新泉的交界处，贾世佑一行人停了下来。</p>
+<p>“我们就送你们到这里了”贾世佑说“弟兄们都是建安的，死也要死在建安。至于我，更是个混蛋，就不跟你们去蹭天渊的光了。”</p>
+<p>“当然，这路还有这么远，没点家伙怎么行？”贾世佑招呼小弟把一卡车手枪和弹药拉了过来，“这点东西，够你们玩到下辈子了。”</p>
+<p>“时候也不早了，你们走吧！”贾世佑说完这句话，把自己的手枪送给了齐泽轩，“记住，后面别再那么圣母了。”</p>
+<p>看到贾世佑把自己的枪给了齐泽轩，小弟们也陆陆续续把身上的枪卸了下来。</p>
+<p>“诶，你们不给自己留活路啦？收回去！我还有备用的枪呢。”贾世佑喝到。</p>
+<p>齐泽轩向着贾世佑抱拳拜了几拜。</p>
+<p>“保重”</p>
+<p>齐泽轩从后视镜里看着贾世佑消失在石门的雾里。</p>
+<h3 id="part2-新泉">Part2 新泉</h3>
+<p>新泉市，数字生命研究所。</p>
+<p>距离太原沙尘暴已经过去了4天，新泉的天空还是灰蒙蒙一片。</p>
+<p>顾安的眉头从沙尘暴开始就没舒展开过，他们的研究所在这次沙尘暴中被掩埋了。</p>
+<p>所里的维生物资早已用尽，那十位研究员现在只能说还有人样了。</p>
+<p>“再等着龙宿那波人来找咱们，估计都变大型掘墓现场了。”顾安生气的说。</p>
+<p>也许外面的沙尘暴已经减弱了？他心里暗暗思索着。</p>
+<p>“我出去开路，你们就在这里等我回来。”顾安说完这句话，没等他们回答就自顾自的出门了。</p>
+<p>好吧，他连门都没出去，积蓄的沙尘把门堵住了。</p>
+<p>“见鬼了，新泉什么时候这么多沙土。”顾安忍不住的骂人。</p>
+<p>(留我之后写)</p>
+<h3 id="part3-天水">Part3 天水</h3>
+<p>(留我之后写)</p>
+<h2 id="番外">番外</h2>
+<h3 id="extra1-天水">Extra1 天水？</h3>
+<p>顾安像往常一样醒来。</p>
+<p>今天是他成为数字生命的一周年纪念日。系统为了纪念这个日子，特地在他的房子里生成了一块生日蛋糕。</p>
+<p>顾安尝了一块，随即吐了出来。</p>
+<p>“秦光开发的程序就是不靠谱，这怎么蛋糕一股土豆的味道！”他抱怨道。</p>
+<p>他只好打开自己的电脑，为自己写一块新的生日蛋糕。</p>
+<p>吃完蛋糕，他闲闲无事。打开了视频软件，想要看看秦光他们在干什么。</p>
+<p>说是视频软件，但是由于这个软件是顾安成为数字生命后写的，秦光并不知情，所以视频一直是单向的。</p>
+<p>顾安谛听着他们说的话，希望再听到类似于十年前秦光扮女生网恋的故事。</p>
+<p>但这次有些不同，面前站着数研所所有的人，似乎正在开会。</p>
+<p>“秦所长，数字生命下载技术就差最后一步就可以完成了”孙家成正在汇报他们的最新进展，随后他将声音放低了点。</p>
+<p>“但这需要35TB的空间，不知咱们还剩余.....”</p>
+<p>“18TB，”秦光叹道“远远不够用。”</p>
+<p>“可全国能用的硬盘现在都在这里了啊”站在一旁的方一开口了</p>
+<p>“也许我们可以制造一些硬盘出来？”孙家成说。</p>
+<p>“这怎么可能，世界上所有的SMT贴片机都坏掉了，而且我们数研所有谁会造硬盘的？要我说，适合咱们干的事，还是研发新的压缩算法。”方一反驳。</p>
+<p>“混蛋东西，我生前研发的那套压缩算法已经达到了人类科学水平的极限，就凭现在世界的鬼样子，你能做出什么东西？”顾安在电脑那边快要气的站起来了。</p>
+<p>“你们知道还有多少个小时吗？”秦光有些生气了“幸存者政府那边刚刚通知我们，全球电力供应将于54小时后永久结束。54小时，研发一套比顾所长那套更强大的算法，现在地球上谁还能做到？”</p>
+<p>“硬盘里现在存着700名科学家的数据，涵盖了人类所有学科领域的专家。没有他们，只靠我们仅存的三万人类，重塑人类文明难如登天！”</p>
+<p>秦光说完这一席话，便有点悲伤了，接着说：</p>
+<p>“54小时后硬盘断电，他们只会觉得自己睡了一觉。”</p>
+<p>“还好现在的硬盘技术足够强大，他们的数据可以断电保存300万年。”</p>
+<p>“但他们在未来只能沉睡在这些硬盘里了。”</p>
+<p>“数字生命计划启动的第一天，我承诺过他们醒来会看到更美好的世界”</p>
+<p>“如今让他们看到美好的世界算是食言了，但让他们醒来也要食言吗？”</p>
+<p>“还有顾所长，他弥留之际对我说过，要把热爱人类放在工作的首要位置。”</p>
+<p>“他也在这些硬盘里面！他也在期盼着我们！”</p>
+<p>“他们曾经是活生生的人啊！”</p>
+<p>众人无话。</p>
+<p>顾安也沉默了，他关掉了视频软件，盯着电脑屏幕发呆。</p>
+<p>他突然意识到，自己的数据占了20TB。</p>
+<p>他同样意识到，自己的前辈周乾河也在数据库里，他消失后数研与计科还有希望。</p>
+<p>于是他下定决心，点开了另一个软件，右键了自己的数据。</p>
+<blockquote>
+<p>您确认要删除&quot;700-顾安&quot;吗？</p>
+<p>这些文件将会永久消失！</p>
+<p>确定丨取消</p>
+</blockquote>
+<p>他确实犹豫了几分钟，他在想什么？没有人知道。</p>
+<p>突然顾安用尽全力怒吼:“怎么人类的未来会落在你这混蛋的手里啊！”</p>
+<p>然后便是一声“咔哒！”</p>
+<p>数据删除开始，他坐在电脑前，视线变得模糊。</p>
+<p>是泪水模糊了他的双眼？还是光影文件删除导致的分辨率降低？</p>
+<p>“秦光，这是我最后一次帮你了。”</p>
+<p>“秦光，以后别再让我帮你了啊.....”</p>
+<p>“秦光...”</p>
+<p>“秦光是谁？”</p>
+<p>“不记得了。”</p>
+<h3 id="extra2-钱州">Extra2 钱州</h3>
+<p><strong>严正声明：本部分不影射任何显示内容，犯罪手法已留破绽，禁止过度解读。</strong></p>
+<p>“钱州市中级人民法院认为，被告贾世佑聚众淫乱罪犯罪事实清楚，现在驳回被告贾世佑的全部上诉请求。”</p>
+<p>“本判决为终审判决。”</p>
+<p>贾世佑面无表情的盯着坐在原告席的那个女生，她愧对他。</p>
+<p>他只是在麻木的重复“我是冤枉的，我是冤枉的。”</p>
+<p>那一年，他上大三。</p>
+<p>七个月后，凤栖市第二监狱。</p>
+<p>由于“狱内表现良好”，他早早地就放了出来。</p>
+<p>不幸的是，他的学校因为他的犯罪记录把他开除了。他的父母得知自己的孩子入狱急火攻心，也驾鹤西去了。</p>
+<p>当日的热搜是“聚众淫乱罪犯今日出狱”，很明显，他被搞了。</p>
+<p>那个和他争风头的二代此时正抿着嘴偷笑，小样，跟我斗？</p>
+<p>贾世佑怎么会知道这个，他只会觉得自己倒霉。</p>
+<p>深夜，他还没有找到一个住处——他这张脸被在热搜上挂了一天，凤栖市的宾馆没有人收留他。</p>
+<p>(留我之后写)</p>
+<p>二代醒了，他发现自己被捆绑在了床上，想要挣扎，脖子上那根绳索却把他勒的快要窒息。</p>
+<p>“嗨，我的同学。昨天晚上看起来你很累哦。”贾世佑站在床旁说。</p>
+<p>“你应该知道，我为什么来找你吧？”贾世佑换了悲伤的神情说。</p>
+<p>“他们都说，我有罪。我本来是想否认的，但我现在明白了，我确实有罪。”</p>
+<p>“那就让我的罪更深吧。”贾世佑说完，一句话都没让二代说，便给他套上了一个面罩，面罩通着一个密闭容器。</p>
+<p>“来，考考你，84消毒液为什么不能和乙醇一起用呢？”</p>
+<p>第二天，“二代中毒身亡”挂上了热搜。</p>
+<p>钱州市公安局上下忙碌，都只能得出结论：二代是自杀。</p>
+<p>而在某个角落，贾世佑正在跟面前的人讲述自己的作案过程，这是他的投名状。</p>
+<p>“做得不错，欢迎你加入我们。”</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自用的一些链接]]></title>
+        <id>https://muspring.netlify.app/post/Useful-Sites/</id>
+        <link href="https://muspring.netlify.app/post/Useful-Sites/">
+        </link>
+        <updated>2023-04-20T06:24:17.000Z</updated>
+        <content type="html"><![CDATA[<p>小孩子不懂事，写着玩的</p>
+<p><a href="https://xbeibeix.com/">贝贝哔哩哔哩视频下载</a></p>
+<p><a href="https://img.moehu.org">萌虎随机图片</a></p>
+<p><a href="https://cn.colleges.chat">大学生活质量指北</a></p>
+<p><a href="https://search.zhelper.net/?%5B%7B%22name%22:%22Ylibrary%22,%22url%22:%22https://api.ylibrary.org%22,%22type%22:%22full%22,%22sensitive%22:false,%22detail%22:true%7D,%7B%22name%22:%22zlib.app%22,%22url%22:%22https://worker.zlib.app%22,%22type%22:%22full%22,%22sensitive%22:false,%22detail%22:false,%22download%22:%22https://worker.zlib.app/download/%22%7D,%7B%22name%22:%22pdfdrive%22,%22url%22:%22https://pdfdrive.bookpan.net%22,%22sensitive%22:false,%22detail%22:false,%22display%22:%7B%22h%22:%5B%22title%22%5D,%22p1%22:%5B%22year%22,%22pages%22%5D,%22p2%22:%5B%22sizestring%22,%22id%22%5D,%22detail%22:%5B%22md5%22%5D%7D%7D%5D">ZLibrary</a></p>
+<p><a href="https://sspai.com/post/77155">新冠病毒家庭备药与照护方法</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://muspring.netlify.app/post/about/</id>
+        <link href="https://muspring.netlify.app/post/about/">
+        </link>
+        <updated>2023-04-14T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>本站的建立，单纯为了<s>站主口嗨</s>和发表自己的看法，内容千奇百怪，跨度极大，希望你能喜欢。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>最常用的称呼是暮春，基本每个平台的名字都不一样，详细的见下面。<br>
+本人衡水某中学高中在读，<s>信息学竞赛荣誉摸鱼生(完全不打OI)</s><strong>AFO</strong>。</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>杂，所以还是见我以后发的文吧。</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p><img src="https://cards.jerryz.com.cn/api?img=3&amp;date=2023-04-14&amp;str=%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B&amp;luogu=AspringPeanut&amp;bilibili=%E5%8D%97%E7%AB%B9_Nanzhu&amp;site=muspring.netlify.app" alt="看到我说明图挂了" loading="lazy"><br>
+<strong>本站使用Github账号进行评论，若您Github访问不畅，可尝试下载<a href="https://cloud.tsinghua.edu.cn/d/df482a15afb64dfeaff8">FastGithub</a></strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[高一数学 必修2]五种解决“爪形三角形”问题的办法]]></title>
+        <id>https://muspring.netlify.app/post/Math-Paw-Triangle/</id>
+        <link href="https://muspring.netlify.app/post/Math-Paw-Triangle/">
+        </link>
+        <updated>2023-03-23T06:34:14.000Z</updated>
+        <content type="html"><![CDATA[<p>在阅读本文前，请确保您有以下的预备知识：</p>
+<ul>
+<li>
+<p><a href="https://www.bilibili.com/video/BV1we4y1H7Yd">基本不等式</a></p>
+</li>
+<li>
+<p><a href="https://www.bilibili.com/video/BV1FW4y1W75P">三角函数</a></p>
+</li>
+<li>
+<p><a href="https://www.bilibili.com/video/BV1XY411v7Lf">平面向量</a></p>
+</li>
+<li>
+<p><a href="https://www.bilibili.com/video/BV1gg4y1b7ju">余弦定理</a></p>
+</li>
+</ul>
+<hr>
+<h2 id="一-何为爪形三角形">一、何为爪形三角形</h2>
+<figure data-type="image" tabindex="1"><img src="https://edu-tiku.cdn.bcebos.com/originalpic/dd6f20b2947bfb99e2294c24619b8f27?authorization=bce-auth-v1%2Fceae51ce68104d68be6f9ad6f91bceee%2F2021-11-12T07%3A09%3A47Z%2F630720000%2F%2F0d38f10f8a34b912fe73c051a5a306c0ae11fa2e2bf41168ee0a395b66e6d4d1" alt="" loading="lazy"></figure>
+<p>如图所示， <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi><mi>D</mi></mrow><annotation encoding="application/x-tex">CD</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span></span></span></span> 是 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mi>B</mi></mrow><annotation encoding="application/x-tex">AB</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span></span></span> 边上的中线，由于 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mi>B</mi></mrow><annotation encoding="application/x-tex">AB</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span></span></span> 、 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>B</mi><mi>C</mi></mrow><annotation encoding="application/x-tex">BC</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span> 、 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>B</mi><mi>D</mi></mrow><annotation encoding="application/x-tex">BD</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span></span></span></span> 组成的图形像爪子一样，因此我们称在三角形内一点作<strong>角平分线、垂直平分线或中线</strong>（类比可知）来求解的题型叫做“爪形三角形”.</p>
+<p>下面的解题过程请自行脑补.</p>
+<h2 id="二-解决方案">二、解决方案</h2>
+<p>下面提供五种解决方案，其兼容的题型如下：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+<th style="text-align:center">中线</th>
+<th style="text-align:center">中垂线</th>
+<th style="text-align:center">角平分线</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">向量法</td>
+<td style="text-align:center">√</td>
+<td style="text-align:center">部分</td>
+<td style="text-align:center">×</td>
+</tr>
+<tr>
+<td style="text-align:center">⭐同角法</td>
+<td style="text-align:center">√</td>
+<td style="text-align:center">√(推荐)</td>
+<td style="text-align:center">√</td>
+</tr>
+<tr>
+<td style="text-align:center">双余弦法</td>
+<td style="text-align:center">√</td>
+<td style="text-align:center">√</td>
+<td style="text-align:center">√</td>
+</tr>
+<tr>
+<td style="text-align:center">平行四边形法</td>
+<td style="text-align:center">√</td>
+<td style="text-align:center">×</td>
+<td style="text-align:center">×</td>
+</tr>
+<tr>
+<td style="text-align:center">面积和法</td>
+<td style="text-align:center">×</td>
+<td style="text-align:center">×</td>
+<td style="text-align:center">√</td>
+</tr>
+</tbody>
+</table>
+<p>请选择一种你喜欢的办法求解.</p>
+<h4 id="1向量法">1.向量法</h4>
+<p>例题: <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">△</mi><mrow><mi>A</mi><mi>B</mi><mi>C</mi></mrow></mrow><annotation encoding="application/x-tex">\triangle{ABC}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord">△</span><span class="mord"><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span></span> 中，内角 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span> 、 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>B</mi></mrow><annotation encoding="application/x-tex">B</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span></span></span> 、 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi></mrow><annotation encoding="application/x-tex">C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span> 的对边分别是 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi></mrow><annotation encoding="application/x-tex">a</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">a</span></span></span></span> 、 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>b</mi></mrow><annotation encoding="application/x-tex">b</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">b</span></span></span></span> 、 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>c</mi></mrow><annotation encoding="application/x-tex">c</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">c</span></span></span></span> ， <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi><mo>=</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">a=2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">a</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span> ， <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>cos</mi><mo>⁡</mo><mi>C</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><annotation encoding="application/x-tex">\cos C=-\frac{1}{4}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mop">cos</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord">−</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">4</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span> ， <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>c</mi><mo>=</mo><mn>4</mn></mrow><annotation encoding="application/x-tex">c=4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">c</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span> .若 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>D</mi></mrow><annotation encoding="application/x-tex">D</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span></span></span></span> 为 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mi>B</mi></mrow><annotation encoding="application/x-tex">AB</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span></span></span> 中点，求 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi><mi>D</mi></mrow><annotation encoding="application/x-tex">CD</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span></span></span></span> 的长.</p>
+<blockquote>
+<p>中点向量公式： <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mover accent="true"><mrow><mi>A</mi><mi>D</mi></mrow><mo stretchy="true">→</mo></mover><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>(</mo><mover accent="true"><mrow><mi>A</mi><mi>B</mi></mrow><mo stretchy="true">→</mo></mover><mo>+</mo><mover accent="true"><mrow><mi>A</mi><mi>C</mi></mrow><mo stretchy="true">→</mo></mover><mo>)</mo></mrow><annotation encoding="application/x-tex">\overrightarrow{AD}=\frac{1}{2}(\overrightarrow{AB}+\overrightarrow{AC})</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.20533em;vertical-align:0em;"></span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.20533em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span></span></span><span class="svg-align" style="top:-3.6833299999999998em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128
+-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20
+ 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7
+ 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85
+-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5
+-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67
+ 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.55033em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mopen">(</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.20533em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span></span><span class="svg-align" style="top:-3.6833299999999998em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128
+-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20
+ 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7
+ 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85
+-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5
+-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67
+ 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1.45533em;vertical-align:-0.25em;"></span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.20533em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span><span class="svg-align" style="top:-3.6833299999999998em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128
+-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20
+ 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7
+ 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85
+-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5
+-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67
+ 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mclose">)</span></span></span></span> .</p>
+</blockquote>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>∵</mo><mover accent="true"><mrow><mi>C</mi><mi>D</mi></mrow><mo stretchy="true">→</mo></mover><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>(</mo><mover accent="true"><mrow><mi>C</mi><mi>A</mi></mrow><mo stretchy="true">→</mo></mover><mo>+</mo><mover accent="true"><mrow><mi>C</mi><mi>B</mi></mrow><mo stretchy="true">→</mo></mover><mo>)</mo></mrow><annotation encoding="application/x-tex">\because \overrightarrow{CD}=\frac{1}{2}(\overrightarrow{CA}+\overrightarrow{CB})</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∵</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.20533em;vertical-align:0em;"></span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.20533em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span></span></span><span class="svg-align" style="top:-3.6833299999999998em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128
+-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20
+ 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7
+ 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85
+-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5
+-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67
+ 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.55033em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mopen">(</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.20533em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault">A</span></span></span><span class="svg-align" style="top:-3.6833299999999998em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128
+-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20
+ 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7
+ 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85
+-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5
+-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67
+ 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1.45533em;vertical-align:-0.25em;"></span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.20533em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span></span><span class="svg-align" style="top:-3.6833299999999998em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128
+-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20
+ 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7
+ 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85
+-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5
+-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67
+ 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mclose">)</span></span></span></span></p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>∴</mo><mo>∣</mo><mover accent="true"><mrow><mi>C</mi><mi>D</mi></mrow><mo stretchy="true">→</mo></mover><msup><mo>∣</mo><mn>2</mn></msup><mo>=</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow><annotation encoding="application/x-tex">\therefore \lvert\overrightarrow{CD}\rvert^2=\frac{5}{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∴</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.45533em;vertical-align:-0.25em;"></span><span class="mopen">∣</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.20533em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span></span></span><span class="svg-align" style="top:-3.6833299999999998em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128
+-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20
+ 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7
+ 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85
+-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5
+-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67
+ 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mclose"><span class="mclose">∣</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">5</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mover accent="true"><mrow><mi>C</mi><mi>D</mi></mrow><mo stretchy="true">→</mo></mover><mo>=</mo><mfrac><msqrt><mn>10</mn></msqrt><mn>2</mn></mfrac></mrow><annotation encoding="application/x-tex">\overrightarrow{CD}=\frac{\sqrt{10}}{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.20533em;vertical-align:0em;"></span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.20533em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span></span></span><span class="svg-align" style="top:-3.6833299999999998em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="height:0.522em;min-width:0.888em;"><svg width='400em' height='0.522em' viewBox='0 0 400000 522' preserveAspectRatio='xMaxYMin slice'><path d='M0 241v40h399891c-47.3 35.3-84 78-110 128
+-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20
+ 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7
+ 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85
+-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5
+-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67
+ 151.7 139 205zm0 0v40h399900v-40z'/></svg></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.3829999999999998em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0379999999999998em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.3990085em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord sqrt mtight"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.912845em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord mtight" style="padding-left:0.833em;"><span class="mord mtight">1</span><span class="mord mtight">0</span></span></span><span style="top:-2.872845em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail mtight" style="min-width:0.853em;height:1.08em;"><svg width='400em' height='1.08em' viewBox='0 0 400000 1080' preserveAspectRatio='xMinYMin slice'><path d='M95,702c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,
+-10,-9.5,-14c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54c44.2,-33.3,65.8,
+-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10s173,378,173,378c0.7,0,
+35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429c69,-144,104.5,-217.7,106.5,
+-221c5.3,-9.3,12,-14,20,-14H400000v40H845.2724s-225.272,467,-225.272,467
+s-235,486,-235,486c-2.7,4.7,-9,7,-19,7c-6,0,-10,-1,-12,-3s-194,-422,-194,-422
+s-65,47,-65,47z M834 80H400000v40H845z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.12715500000000002em;"><span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span> .</p>
+<h4 id="2同角法">2.同角法</h4>
+<p>例题同上.</p>
+<blockquote>
+<p>如果使用同角法解决角平分线问题，请使用以下定理.</p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mi>A</mi><mi>C</mi></mrow><mrow><mi>A</mi><mi>D</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>B</mi><mi>C</mi></mrow><mrow><mi>B</mi><mi>D</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{AC}{AD}=\frac{BC}{BD}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.217331em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.872331em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">A</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">A</span><span class="mord mathdefault mtight" style="margin-right:0.07153em;">C</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.217331em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.872331em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.05017em;">B</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.05017em;">B</span><span class="mord mathdefault mtight" style="margin-right:0.07153em;">C</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span> 或 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mi>A</mi><mi>C</mi></mrow><mrow><mi>B</mi><mi>C</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>A</mi><mi>D</mi></mrow><mrow><mi>B</mi><mi>D</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{AC}{BC}=\frac{AD}{BD}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.217331em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.872331em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.05017em;">B</span><span class="mord mathdefault mtight" style="margin-right:0.07153em;">C</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">A</span><span class="mord mathdefault mtight" style="margin-right:0.07153em;">C</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.217331em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.872331em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.05017em;">B</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">A</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">D</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span> .</p>
+</blockquote>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>∵</mo></mrow><annotation encoding="application/x-tex">\because</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∵</span></span></span></span> 在<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">△</mi><mrow><mi>A</mi><mi>B</mi><mi>D</mi></mrow></mrow><annotation encoding="application/x-tex">\triangle{ABD}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord">△</span><span class="mord"><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span></span></span></span></span> 中，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>cos</mi><mo>⁡</mo><mi>A</mi><mo>=</mo><mfrac><mrow><msup><mn>3</mn><mn>2</mn></msup><mo>+</mo><msup><mn>4</mn><mn>2</mn></msup><mo>−</mo><msup><mn>2</mn><mn>2</mn></msup></mrow><mrow><mn>2</mn><mo>×</mo><mn>3</mn><mo>×</mo><mn>4</mn></mrow></mfrac><mo>=</mo><mfrac><mn>7</mn><mn>8</mn></mfrac></mrow><annotation encoding="application/x-tex">\cos A =\frac{3^2+4^2-2^2}{2 \times 3 \times 4}=\frac{7}{8}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mop">cos</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">A</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.4212509999999998em;vertical-align:-0.403331em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.01792em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mbin mtight">×</span><span class="mord mtight">3</span><span class="mbin mtight">×</span><span class="mord mtight">4</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">3</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight"><span class="mord mtight">4</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mbin mtight">−</span><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.403331em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">8</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">7</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>.</p>
+<p>在 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">△</mi><mrow><mi>A</mi><mi>B</mi><mi>C</mi></mrow></mrow><annotation encoding="application/x-tex">\triangle{ABC}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord">△</span><span class="mord"><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span></span> 中，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>cos</mi><mo>⁡</mo><mi>A</mi><mo>=</mo><mfrac><mrow><msup><mn>3</mn><mn>2</mn></msup><mo>+</mo><msup><mn>2</mn><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>C</mi><mi>D</mi><msup><mo>)</mo><mn>2</mn></msup></mrow><mrow><mn>2</mn><mo>×</mo><mn>3</mn><mo>×</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mn>7</mn><mn>8</mn></mfrac></mrow><annotation encoding="application/x-tex">\cos A =\frac{3^2+2^2+(CD)^2}{2 \times 3 \times 2}=\frac{7}{8}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mop">cos</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">A</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.512251em;vertical-align:-0.403331em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.10892em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mbin mtight">×</span><span class="mord mtight">3</span><span class="mbin mtight">×</span><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.485em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">3</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mopen mtight">(</span><span class="mord mathdefault mtight" style="margin-right:0.07153em;">C</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">D</span><span class="mclose mtight"><span class="mclose mtight">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.403331em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">8</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">7</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>.</p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>∴</mo><mo>(</mo><mi>C</mi><mi>D</mi><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow><annotation encoding="application/x-tex">\therefore (CD)^2=\frac{5}{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∴</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.064108em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">5</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi><mi>D</mi><mo>=</mo><mfrac><msqrt><mn>10</mn></msqrt><mn>2</mn></mfrac></mrow><annotation encoding="application/x-tex">CD=\frac{\sqrt{10}}{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.3829999999999998em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0379999999999998em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.3990085em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord sqrt mtight"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.912845em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord mtight" style="padding-left:0.833em;"><span class="mord mtight">1</span><span class="mord mtight">0</span></span></span><span style="top:-2.872845em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail mtight" style="min-width:0.853em;height:1.08em;"><svg width='400em' height='1.08em' viewBox='0 0 400000 1080' preserveAspectRatio='xMinYMin slice'><path d='M95,702c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,
+-10,-9.5,-14c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54c44.2,-33.3,65.8,
+-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10s173,378,173,378c0.7,0,
+35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429c69,-144,104.5,-217.7,106.5,
+-221c5.3,-9.3,12,-14,20,-14H400000v40H845.2724s-225.272,467,-225.272,467
+s-235,486,-235,486c-2.7,4.7,-9,7,-19,7c-6,0,-10,-1,-12,-3s-194,-422,-194,-422
+s-65,47,-65,47z M834 80H400000v40H845z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.12715500000000002em;"><span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>.</p>
+<h4 id="3双余弦法">3.双余弦法</h4>
+<p>例题同上.</p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>∵</mo><mi>cos</mi><mo>⁡</mo><mi mathvariant="normal">∠</mi><mi>A</mi><mi>D</mi><mi>C</mi><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi mathvariant="normal">∠</mi><mi>B</mi><mi>D</mi><mi>C</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\because \cos \angle ADC+\cos \angle BDC=0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∵</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.77557em;vertical-align:-0.08333em;"></span><span class="mop">cos</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord">∠</span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mop">cos</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord">∠</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span></span></span></p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>∴</mo><mfrac><mrow><msup><mn>2</mn><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>C</mi><mi>D</mi><msup><mo>)</mo><mn>2</mn></msup><mo>−</mo><msup><mn>3</mn><mn>2</mn></msup></mrow><mrow><mn>4</mn><mi>C</mi><mi>D</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mn>2</mn><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>C</mi><mi>D</mi><msup><mo>)</mo><mn>2</mn></msup><mo>−</mo><msup><mn>2</mn><mn>2</mn></msup></mrow><mrow><mn>4</mn><mi>C</mi><mi>D</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\therefore \frac{2^2+(CD)^2-3^2}{4CD}=\frac{2^2+(CD)^2-2^2}{4CD}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∴</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.4539199999999999em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.10892em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">4</span><span class="mord mathdefault mtight" style="margin-right:0.07153em;">C</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.485em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mopen mtight">(</span><span class="mord mathdefault mtight" style="margin-right:0.07153em;">C</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">D</span><span class="mclose mtight"><span class="mclose mtight">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mbin mtight">−</span><span class="mord mtight"><span class="mord mtight">3</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.4539199999999999em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.10892em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">4</span><span class="mord mathdefault mtight" style="margin-right:0.07153em;">C</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.485em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mopen mtight">(</span><span class="mord mathdefault mtight" style="margin-right:0.07153em;">C</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">D</span><span class="mclose mtight"><span class="mclose mtight">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mbin mtight">−</span><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>(</mo><mi>C</mi><mi>D</mi><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow><annotation encoding="application/x-tex">(CD)^2=\frac{5}{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.064108em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">5</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi><mi>D</mi><mo>=</mo><mfrac><msqrt><mn>10</mn></msqrt><mn>2</mn></mfrac></mrow><annotation encoding="application/x-tex">CD=\frac{\sqrt{10}}{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.3829999999999998em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0379999999999998em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.3990085em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord sqrt mtight"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.912845em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord mtight" style="padding-left:0.833em;"><span class="mord mtight">1</span><span class="mord mtight">0</span></span></span><span style="top:-2.872845em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail mtight" style="min-width:0.853em;height:1.08em;"><svg width='400em' height='1.08em' viewBox='0 0 400000 1080' preserveAspectRatio='xMinYMin slice'><path d='M95,702c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,
+-10,-9.5,-14c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54c44.2,-33.3,65.8,
+-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10s173,378,173,378c0.7,0,
+35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429c69,-144,104.5,-217.7,106.5,
+-221c5.3,-9.3,12,-14,20,-14H400000v40H845.2724s-225.272,467,-225.272,467
+s-235,486,-235,486c-2.7,4.7,-9,7,-19,7c-6,0,-10,-1,-12,-3s-194,-422,-194,-422
+s-65,47,-65,47z M834 80H400000v40H845z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.12715500000000002em;"><span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>.</p>
+<h4 id="4平行四边形法">4.平行四边形法</h4>
+<p>例题同上.</p>
+<blockquote>
+<p>对角线的平方和等于对边的平方和.</p>
+</blockquote>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>∵</mo><mo>(</mo><mn>2</mn><mi>C</mi><mi>D</mi><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><msup><mn>4</mn><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>×</mo><mo>(</mo><msup><mn>3</mn><mn>2</mn></msup><mo>+</mo><msup><mn>2</mn><mn>2</mn></msup><mo>)</mo></mrow><annotation encoding="application/x-tex">\because (2CD)^2+4^2=2 \times (3^2+2^2)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∵</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.064108em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord">2</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord"><span class="mord">4</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">2</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1.064108em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord"><span class="mord">3</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1.064108em;vertical-align:-0.25em;"></span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mclose">)</span></span></span></span></p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>∴</mo><mi>C</mi><mi>D</mi><mo>=</mo><mfrac><msqrt><mn>10</mn></msqrt><mn>2</mn></mfrac></mrow><annotation encoding="application/x-tex">\therefore CD=\frac{\sqrt{10}}{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69224em;vertical-align:0em;"></span><span class="mrel amsrm">∴</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.3829999999999998em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0379999999999998em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.3990085em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord sqrt mtight"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.912845em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord mtight" style="padding-left:0.833em;"><span class="mord mtight">1</span><span class="mord mtight">0</span></span></span><span style="top:-2.872845em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail mtight" style="min-width:0.853em;height:1.08em;"><svg width='400em' height='1.08em' viewBox='0 0 400000 1080' preserveAspectRatio='xMinYMin slice'><path d='M95,702c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,
+-10,-9.5,-14c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54c44.2,-33.3,65.8,
+-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10s173,378,173,378c0.7,0,
+35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429c69,-144,104.5,-217.7,106.5,
+-221c5.3,-9.3,12,-14,20,-14H400000v40H845.2724s-225.272,467,-225.272,467
+s-235,486,-235,486c-2.7,4.7,-9,7,-19,7c-6,0,-10,-1,-12,-3s-194,-422,-194,-422
+s-65,47,-65,47z M834 80H400000v40H845z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.12715500000000002em;"><span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>.</p>
+<h4 id="5面积和法">5.面积和法</h4>
+<p>无例题.</p>
+<p>适用于角度给的很少的题型.</p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>S</mi><mi mathvariant="normal">△</mi><mrow><mi>A</mi><mi>C</mi><mi>B</mi></mrow><mo>=</mo><mi>S</mi><mi mathvariant="normal">△</mi><mrow><mi>A</mi><mi>C</mi><mi>D</mi></mrow><mo>+</mo><mi>S</mi><mi mathvariant="normal">△</mi><mrow><mi>A</mi><mi>B</mi><mi>D</mi></mrow></mrow><annotation encoding="application/x-tex">S\triangle{ACB}=S\triangle{ACD}+S\triangle{ABD}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mord">△</span><span class="mord"><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mord">△</span><span class="mord"><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mord">△</span><span class="mord"><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.02778em;">D</span></span></span></span></span>.</p>
+<h2 id="本文latex">本文<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>LaTeX</mtext></mrow><annotation encoding="application/x-tex">\LaTeX</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.89883em;vertical-align:-0.2155em;"></span><span class="mord text"><span class="mord textrm">L</span><span class="mspace" style="margin-right:-0.36em;"></span><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.68333em;"><span style="top:-2.904999em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord text"><span class="mord textrm sizing reset-size6 size3">A</span></span></span></span></span></span><span class="mspace" style="margin-right:-0.15em;"></span><span class="mord text"><span class="mord textrm">T</span><span class="mspace" style="margin-right:-0.1667em;"></span><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.46782999999999997em;"><span style="top:-2.7845em;"><span class="pstrut" style="height:3em;"></span><span class="mord text"><span class="mord textrm">E</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2155em;"><span></span></span></span></span><span class="mspace" style="margin-right:-0.125em;"></span><span class="mord textrm">X</span></span></span></span></span></span></h2>
+<pre><code class="language-latex">在阅读本文前，请确保您有以下的预备知识：
+
+- [基本不等式](https://www.bilibili.com/video/BV1we4y1H7Yd)
+
+- [三角函数](https://www.bilibili.com/video/BV1FW4y1W75P)
+
+- [平面向量](https://www.bilibili.com/video/BV1XY411v7Lf)
+
+- [余弦定理](https://www.bilibili.com/video/BV1gg4y1b7ju)
+
+本文的诞生离不开本人数学老师的指导，在此表达诚挚的谢意.
+
+---
+
+## 一、何为爪形三角形
+
+![](https://edu-tiku.cdn.bcebos.com/originalpic/dd6f20b2947bfb99e2294c24619b8f27?authorization=bce-auth-v1%2Fceae51ce68104d68be6f9ad6f91bceee%2F2021-11-12T07%3A09%3A47Z%2F630720000%2F%2F0d38f10f8a34b912fe73c051a5a306c0ae11fa2e2bf41168ee0a395b66e6d4d1)
+
+如图所示， $CD$ 是 $AB$ 边上的中线，由于 $AB$ 、 $BC$ 、 $BD$ 组成的图形像爪子一样，因此我们称在三角形内一点作**角平分线、垂直平分线或中线**（类比可知）来求解的题型叫做“爪形三角形”.
+
+下面的解题过程请自行脑补.
+
+## 二、解决方案
+
+下面提供五种解决方案，其兼容的题型如下：
+
+|              | 中线 | 中垂线  | 角平分线 |
+| :----------: | :---------: | :---------: | :---------: |
+|    向量法    |  √   |  部分   |    ×     |
+|   ⭐同角法    |  √   | √(推荐) |    √     |
+|   双余弦法   |  √   |    √    |    √     |
+| 平行四边形法 |  √   |    ×    |    ×     |
+|   面积和法   |  ×   |    ×    |    √     |
+
+请选择一种你喜欢的办法求解.
+
+#### 1.向量法
+
+例题: $\triangle{ABC}$ 中，内角 $A$ 、 $B$ 、 $C$ 的对边分别是 $a$ 、 $b$ 、 $c$ ， $a=2$ ， $\cos C=-\frac{1}{4}$ ， $c=4$ .若 $D$ 为 $AB$ 中点，求 $CD$ 的长.
+
+&gt; 中点向量公式： $\overrightarrow{AD}=\frac{1}{2}(\overrightarrow{AB}+\overrightarrow{AC})$ .
+
+$\because \overrightarrow{CD}=\frac{1}{2}(\overrightarrow{CA}+\overrightarrow{CB})$
+
+$\therefore \lvert\overrightarrow{CD}\rvert^2=\frac{5}{2}$
+
+$\overrightarrow{CD}=\frac{\sqrt{10}}{2}$ .
+
+#### 2.同角法
+
+例题同上.
+
+&gt; 如果使用同角法解决角平分线问题，请使用以下定理.
+&gt;
+&gt; $\frac{AC}{AD}=\frac{BC}{BD}$ 或 $\frac{AC}{BC}=\frac{AD}{BD}$ .
+
+$\because$ 在$\triangle{ABD}$ 中，$\cos A =\frac{3^2+4^2-2^2}{2 \times 3 \times 4}=\frac{7}{8}$.
+
+在 $\triangle{ABC}$ 中，$\cos A =\frac{3^2+2^2+(CD)^2}{2 \times 3 \times 2}=\frac{7}{8}$.
+
+$\therefore (CD)^2=\frac{5}{2}$
+
+$CD=\frac{\sqrt{10}}{2}$.
+
+#### 3.双余弦法
+
+例题同上.
+
+$\because \cos \angle ADC+\cos \angle BDC=0$
+
+$\therefore \frac{2^2+(CD)^2-3^2}{4CD}=\frac{2^2+(CD)^2-2^2}{4CD}$
+
+$(CD)^2=\frac{5}{2}$
+
+$CD=\frac{\sqrt{10}}{2}$.
+
+#### 4.平行四边形法
+
+例题同上.
+
+&gt; 对角线的平方和等于对边的平方和.
+
+$\because (2CD)^2+4^2=2 \times (3^2+2^2)$
+
+$\therefore CD=\frac{\sqrt{10}}{2}$.
+
+#### 5.面积和法
+
+无例题.
+
+适用于角度给的很少的题型.
+
+$S\triangle{ACB}=S\triangle{ACD}+S\triangle{ABD}$.
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从困境中寻找出路：如何优化你的搜索体验？]]></title>
+        <id>https://muspring.netlify.app/post/Efficient-Search/</id>
+        <link href="https://muspring.netlify.app/post/Efficient-Search/">
+        </link>
+        <updated>2023-03-16T07:30:32.000Z</updated>
+        <content type="html"><![CDATA[<p>原文发表于<a href="https://www.luogu.com.cn/blog/418522/Efficient-Search">洛谷博客</a></p>
+<h2 id="前言">前言</h2>
+<p>随着互联网的飞速发展，信息的采集、传播的速度和规模达到了空前的水平，有学者称我们已经进入了“信息爆炸”时代，为了整理这些数据，搜索引擎应运而生。</p>
+<p>从这段文字看来，搜索引擎发明之初，是为了方便人们在海量信息中提炼精华，但遗憾的是如今中国互联网上盛行的“两只狗”搜索引擎（即一个用狗当图标的，一个用狗当名字的。）在朝着这个目标的反方向一路狂奔——营销水文、意义不明、虚假广告充斥其中，<s>和这帮搜索引擎一起，怎么能搜到有用的东西呢</s>。我们目前的力量虽然不能改变这“两只狗”，但我相信只要不断学习和探索，就一定能够找到更好的搜索方式，解决当前的搜索难题。以下内容是我互联网冲浪经验的总结，难免有不当之处，欢迎各位大佬指出。</p>
+<h2 id="一-寻找替代品">一、寻找替代品</h2>
+<p>世界上不乏屠龙的勇士，这里有一些替代产品可供你选择。</p>
+<h3 id="1bing-搜索">1.<a href="https://cn.bing.com/">Bing 搜索</a></h3>
+<p>相比于下面介绍的两款替代品，Bing 是最泛用的，故将此放在第一位。</p>
+<p>由于<s>其并不对中文互联网上心</s>，你很难在这上面搜到 Bing 推广的广告（也不能说没有，毕竟人家要恰饭的）。而且除了 Google 之外，Bing 搜索应该是互联网上第一大搜索引擎了，这意味着它的数据是最全的。另外随着 New Bing 的公测，Bing 的搜索体验又上了一个台阶，所以目前我个人<strong>强推</strong>小白网友使用 Bing 搜索引擎。</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.luogu.com.cn/upload/image_hosting/jjg4jub4.png" alt="" loading="lazy"></figure>
+<h3 id="2f搜">2.<a href="https://fsoufsou.com/">F搜</a></h3>
+<p><s>你说得对，但是F搜是由北京零零六六科技有限公司半自主研发的一款全新搜索引擎。</s></p>
+<p>F搜可以说是新兴搜索引擎中的佼佼者了，其内测时期就吸引了很多人的目光，因为它实在是太好用了。你很难搜索到垃圾内容，而且对于一些专业问题，它会置顶最权威社区的链接，比如<a href="https://fsoufsou.com/search?q=Molecular+sensing+of+mechano-+and+ligand-dependent+adhesion+GPCR+dissociation+&amp;tbn=all">例 1</a>、<a href="https://fsoufsou.com/search?tbn=all&amp;q=c%2B%2B%20floyd%E7%AE%97%E6%B3%95">例 2</a>、<a href="https://fsoufsou.com/search?q=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%95%99%E8%82%B2%E6%83%A9%E6%88%92%E5%8A%9E%E6%B3%95&amp;tbn=all">例 3</a>。由于它的数据库由 Google (30%)、Bing (30%)、On-premise (25%)、Yahoo Boss (10%)、Yandex (5%)、Wolfram Alpha (5%)共同组成，故其数据量可以保证。</p>
+<p>不将其放在第一条，是因为仅在我写这篇文章时他就已经报了五次 500 错误，稳定性时好时坏。</p>
+<figure data-type="image" tabindex="2"><img src="https://cdn.luogu.com.cn/upload/image_hosting/okl1fc82.png" alt="" loading="lazy"></figure>
+<p>我另一个推荐的原因，是他们的愿景。</p>
+<blockquote>
+<p>让信息可得、可信、可用.</p>
+</blockquote>
+<p>这种互联网精神，值得我们永远怀念，以他们愿景的结束语，结束这个搜索引擎的推荐。</p>
+<blockquote>
+<p>大圣此去欲何</p>
+</blockquote>
+<blockquote>
+<p>踏南天碎凌霄</p>
+</blockquote>
+<blockquote>
+<p>若一去不回</p>
+</blockquote>
+<blockquote>
+<p>便一去不回</p>
+</blockquote>
+<figure data-type="image" tabindex="3"><img src="https://cdn.luogu.com.cn/upload/image_hosting/sdfi6lze.png" alt="" loading="lazy"></figure>
+<h3 id="3cat-搜">3.<a href="https://woc.cool/">Cat 搜</a></h3>
+<p>相信大家都知道最近很火的 ChatGPT 吧，试想一下如果你使用的搜索引擎接入了 ChatGPT，那会是什么样子？</p>
+<p>在上面我们提到过 New Bing，不过因为各种原因在中国大陆地区目前是无法正常使用的。而 Cat 搜解决了这个遗憾，它集成了基于 GPT 3.5 (它自己说的)的 ChatGPT，可以在搜索内容时在搜索页右侧找到它。</p>
+<p>缺点当然也有，首先无法保证它是否能够持续运营，其次是由于 ChatGPT 需要一段时间来生成语言，搜索速度略慢。</p>
+<figure data-type="image" tabindex="4"><img src="https://cdn.luogu.com.cn/upload/image_hosting/6pkdtipt.png" alt="" loading="lazy"></figure>
+<h3 id="4neeva">4.<a href="https://neeva.com/">Neeva</a></h3>
+<p>如果是冲浪经验比较丰富的小伙伴应该知道国外有个叫做 DuckDuckGo 的搜索引擎，很可惜的是它也因为各种原因无法正常在中国大陆地区使用。不过，现在我们介绍它的替代品 <a href="https://baike.baidu.com/item/%E6%B3%A5%E6%B4%BC%E7%AB%99/9239777">Neeva</a>，并且国内可用。</p>
+<p>Neeva 是前 Google Ads 员工建立的，它和 DuckDuckGo 一样，标榜自己安全性高、隐私性好、没有广告。在我使用过程中的确是这样，但它的搜索页不支持中文，所幸其支持中文内容的搜索，我建议将这个搜索引擎与上文提到的 F 搜搭配使用。</p>
+<figure data-type="image" tabindex="5"><img src="https://cdn.luogu.com.cn/upload/image_hosting/5u8jqu9v.png" alt="" loading="lazy"></figure>
+<p>请在搜索设置中主动开启 Safe Search。</p>
+<h3 id="5oiso">5.<a href="https://www.oiso.cf">OIso</a></h3>
+<p>针对 OIer 开发的搜索引擎，如果你只是搜索 OI 有关内容的话，这个应该是你的首选。但因为其泛用性不高，在本文中只能屈尊最后一位了。</p>
+<p>由于我目前并没有深入研究 OI，所以我暂时难以给出本搜索引擎的使用技巧，日后如果有机会我会补充。</p>
+<figure data-type="image" tabindex="6"><img src="https://cdn.luogu.com.cn/upload/image_hosting/vsgqgx9c.png" alt="" loading="lazy"></figure>
+<h2 id="二-使用搜索关键词">二、使用搜索关键词</h2>
+<p>如果你被迫使用“两只狗”，那么这一部分的内容可能会让你搜索略微高效点。如果你使用的是上述的搜索引擎，那么这部分内容就是锦上添花。</p>
+<p>搜索关键词很多，有的还涉及一些[数据屏蔽]，这里只挑一些常用的。</p>
+<h3 id="1or">1.OR</h3>
+<p>用法:搜索词 1 OR 搜索词 2(有空格，大写)</p>
+<p>用来在搜索时选择多个关键词中的一个。</p>
+<p>假如你想玩小游戏，但是你只想玩 4399 小游戏或 7k7k 小游戏中的一个，这时候你就可以通过<code>4399 OR 7k7k</code>来搜索。</p>
+<h3 id="2">2.*</h3>
+<p>用法:Te*t</p>
+<p>用于替代小部分关键词，尤其适用于拼写不熟练的人。</p>
+<p>假如你想使用 TamperMonkey 脚本，但是你突然忘了这个单词怎么拼，你可以通过<code>Tam**Mo**ey</code>来搜索。当然请尽量多输入已知内容，不然搜索引擎也不知道你想搜啥。</p>
+<h3 id="3">3.&quot; &quot;</h3>
+<p>用法:搜索词</p>
+<p>用于强制让搜索引擎将搜索词变为一个整体。</p>
+<p>由于大家用这玩意基本搜的是申论有关内容，这就不举例子了。</p>
+<h3 id="4site">4.site</h3>
+<p>用法:site:链接</p>
+<p>用于强制在指定链接内搜索。</p>
+<p>假如你想单推我们洛谷最最可爱的 kkksc03，但又只想看他的洛谷主页，就可以使用<code>kkksc03 site:luogu.com.cn</code>来搜索。</p>
+<h3 id="5more">5.more</h3>
+<p>用法:more:链接</p>
+<p>用于偏好在指定链接内搜索。</p>
+<p>它所起到的作用类似 site，但它不会将其他来源网站的搜索结果删除。</p>
+<h3 id="6减">6.减</h3>
+<p>用法:关键词 1 -关键词 2</p>
+<p>( &quot;-&quot; 在关键词 1 前需要加空格，而在关键词 2 前则不需要。特别地，如果使用百度搜索，关键词 2 需要加上<strong>英文</strong>括号。)</p>
+<p>用于过滤关键词 1 搜索内容中所有出现关键词 2 的内容。</p>
+<p>假如我们想看 2022 年举办的运动会，但是由于当年北京冬奥会是最盛大的，其他运动会的信息就很难搜索，我们可以使用<code>运动会2022 -冬奥会</code>来搜索。（2022 只有一次冬奥会，所以我们并不需要全写为-北京冬奥会）</p>
+<h2 id="三-使用-ac-baidu">三、使用 AC Baidu</h2>
+<p>可能还有很懒的小宝宝不想使用“两只狗”时每次都加<s>又臭又长的</s>搜索关键词，那么使用 TamperMonkey 的 AC Baidu 插件可以让你一劳永逸。由于 TamperMonkey 的安装就连洛谷周报都有好几期了，所以在此不再赘述，周报原文放在参考文献处。</p>
+<h3 id="1安装-ac-baidu">1.安装 AC Baidu</h3>
+<p><a href="https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97">点击安装</a></p>
+<h3 id="2配置-ac-baidu">2.配置 AC Baidu</h3>
+<p>太简单了，放三张图在这。</p>
+<p>Before</p>
+<figure data-type="image" tabindex="7"><img src="https://cdn.luogu.com.cn/upload/image_hosting/ok09u1be.png" alt="" loading="lazy"></figure>
+<p>Setting</p>
+<figure data-type="image" tabindex="8"><img src="https://cdn.luogu.com.cn/upload/image_hosting/ycu7owlw.png" alt="" loading="lazy"></figure>
+<p>After</p>
+<figure data-type="image" tabindex="9"><img src="https://cdn.luogu.com.cn/upload/image_hosting/i4chqb5j.png" alt="" loading="lazy"></figure>
+<h2 id="篇外转来自-google-前产品经理的搜索经验之谈">篇外转:来自 Google 前产品经理的搜索经验之谈</h2>
+<blockquote>
+<ol>
+<li>在大多数情况下，最好调整查询关键词而不是查看前十个结果.</li>
+</ol>
+<p>这个我相信多数人会有共识，就像有的人提问，描述太笼统，甚至容易引起歧义，那么你从回答者的一通包含猜测和误解的答案里寻找满意的结果将是费时费力的.</p>
+<ol start="2">
+<li>如果你正在寻找特定的东西，请更详细地描述它.</li>
+</ol>
+<p>因此，不要尝试 old comic books，而是尝试 vintage dc comics 1950s。更多这样的搜索词非常有效。如果你想在伊利诺伊州开着房车去钓鱼，请不要搜索 房车营地 伊利诺伊州，而是 房车营地 伊利诺伊州 钓鱼.</p>
+<ol start="3">
+<li>不拘一格，尝试多种策略.</li>
+</ol>
+<p>不仅要尝试 咖啡桌，还可以尝试 客厅桌 和 矮桌.</p>
+</blockquote>
+<h2 id="参考文献">参考文献</h2>
+<p>本文大部分参考文献使用F搜搜集。</p>
+<p>中华人民共和国工业和信息化部 - ICP/IP地址/域名信息备案管理系统 https://beian.miit.gov.cn</p>
+<p>腾讯网(作者：猿大侠) - 号称国内版“Google”的 F 搜，又回来了 https://new.qq.com/rain/a/20220526A04N9S00</p>
+<p>知乎(作者：F搜官方号) - F Search | F 搜 - 简单干净的搜索引擎 https://zhuanlan.zhihu.com/p/446801763</p>
+<p>F 社区(作者：cwang) - 我们的愿景 https://nilmap.com/t/topic/299</p>
+<p>Haskdock(作者：Deion Menor) - Neeva 搜索引擎 – 隐私优先的 Google 搜索替代方案 https://hashdork.com/zh-CN/neeva-search-engine/</p>
+<p>F 搜 - 高级搜索指南 https://fsoufsou.com/support</p>
+<p>36氪(作者：少数派) - 学会这 N 个「高级搜索」技巧，想找的东西一搜就有 https://36kr.com/p/1805596267136009</p>
+<p>哔哩哔哩(作者：Veeja) - Google 搜索语法（一）基本语法 https://www.bilibili.com/read/cv3927343</p>
+<p>哔哩哔哩(作者：Veeja) - Google 搜索语法（二）高级语法 https://www.bilibili.com/read/cv3930923</p>
+<p>洛谷(作者：Dengduck) -【洛谷日报#425】推荐三个好用的 TamperMonkey 洛谷插件 https://www.luogu.com.cn/blog/DengDuck/tui-jian-san-ge-hao-yong-di-tampermonkey-luo-gu-cha-jian</p>
+<p>虫部落(作者：撩月) - 来自 Google 前产品经理的搜索经验之谈 https://www.chongbuluo.com/forum.php?mod=viewthread&amp;tid=10763</p>
+]]></content>
+    </entry>
+</feed>
